@@ -11,7 +11,7 @@ In addition the directory contains the script
 
 This script is used by each of the plot scripts to read data from the data directory.
 The data itself is not part of this repository. Each plot script requires the file
-_household/_power/_consumption.txt_ to be in the data directory.
+_household\_power\_consumption.txt_ to be in the data directory.
 
 Each plot script creates the corresponding plot from the assignment:
 * plot1.png
